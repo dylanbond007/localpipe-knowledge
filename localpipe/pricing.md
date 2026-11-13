@@ -1,6 +1,6 @@
 ---
 title: "LocalPipe pricing"
-summary: "Plans, credit costs, annual billing, the Usage-Based plan, cost per contact by plan, how to size a plan to a list, refunds, and the guide-reader discount code."
+summary: "Plans, credit costs, annual billing, the Usage-Based plan, cost per contact by plan, how to size a plan to a list, and refunds."
 verified_against: "https://www.localpipe.io/#pricing, /faq, /llms-full.txt, /blog/localpipe-pricing-explained-how-credits-work-and-what-each-owner-contact-costs"
 verified_on: "2026-11-13"
 ---
@@ -116,9 +116,9 @@ There is no free plan and no free trial credits. Starter is the cheapest way to 
 
 Credits are charged only when a result is found. Plan fees are non-refundable, including for lists with lower-than-expected match rates, except as expressly provided in the Terms of Service (https://www.localpipe.io/legal).
 
-## Guide-reader discount
+## Discount codes
 
-The Local Legend System carries a reader offer: **30% off lifetime monthly with code `LOCALLEGEND`**. This code appears throughout the guide and in the [CTA library](../reference/cta-library.md). It is **not listed on the public site**, so it could not be confirmed there. Confirm it is still active before putting it in new content.
+There is no active discount code. The Local Legend System's reader code `LOCALLEGEND` is retired (confirmed by Dylan on 13 November 2026). Do not offer it, or any other discount, unless one is published on the site.
 
 ## How the pricing compares in kind
 

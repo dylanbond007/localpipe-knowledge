@@ -27,8 +27,6 @@ The session covered a lot quickly. This guide covers it slowly. Pick your entry 
 
 ## 🎁 The Offers
 
-Both were promised in the session and both are live.
-
 > ### 🔑 LocalPipe
 >
 > The local business database this whole guide runs on. Verified contacts for direct local business owners, not addresses scraped off a website.
@@ -38,11 +36,9 @@ Both were promised in the session and both are live.
 > - 📞 Owner phone returned alongside the email
 > - ✅ **Triple verified**, with **sub 1% bounce** on raw exports
 >
-> **30% off lifetime monthly** with the code below.
->
 > **[👉 Get Verified Local Business Owner Contacts](https://localpipe.io)**
->
-> Code **LOCALLEGEND**
+
+<!-- updated 2026-11-13: retired or unconfirmed claim removed; original wording recorded in meta/changes-from-notion-source.md -->
 
 > ### 📬 Infrastructure and Sending
 >

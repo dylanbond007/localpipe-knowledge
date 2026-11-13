@@ -313,7 +313,7 @@ Current product facts, verified against localpipe.io on 2026-11-13. This folder 
 | --- | --- |
 | [README.md](localpipe/README.md) | Entry point, one-paragraph summary, precedence rule, live sources to re-check |
 | [product.md](localpipe/product.md) | What it is, who it is for, the four-step workflow, how enrichment works, features, what it does not do, coverage, company |
-| [pricing.md](localpipe/pricing.md) | Plans, credit costs, annual billing, Usage-Based, cost per contact, plan sizing, refunds, the guide-reader code |
+| [pricing.md](localpipe/pricing.md) | Plans, credit costs, annual billing, Usage-Based, cost per contact, plan sizing, refunds |
 | [data-quality-and-benchmark.md](localpipe/data-quality-and-benchmark.md) | Average find rates, what verified means, the October 2026 five-provider benchmark with method and limits |
 | [competitors.md](localpipe/competitors.md) | Comparison table, seven tools ranked with pricing, LocalPipe vs Apollo row by row, where each alternative wins |
 | [messaging.md](localpipe/messaging.md) | Positioning, the lines the site uses, proof points with their qualifiers, what to say plainly, what not to say |

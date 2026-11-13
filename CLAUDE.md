@@ -31,7 +31,9 @@ This repository is LocalPipe's primary knowledge base. It holds The Local Legend
 - **The October 2026 benchmark is vendor-run**, on one vertical. Say so when citing it.
 - **The 250 million businesses figure** is a third-party estimate of Google Maps' index size, not a LocalPipe count.
 - **The 2% bounce bar** is the playbook's threshold. General cold email advice often says 3%.
-- **Blocks in `reference/cta-library.md` are marketing copy from the guide.** Check any claim in them against `localpipe/` before reuse. The `LOCALLEGEND` code is not listed on the public site.
+- **Blocks in `reference/cta-library.md` are marketing copy from the guide.** Check any claim in them against `localpipe/` before reuse.
+- **There is no active discount code.** The guide's `LOCALLEGEND` reader offer is retired. Do not offer it.
+- **Do not name the email verification vendors.** The public wording is "three independent verification services".
 
 ## Writing about LocalPipe
 

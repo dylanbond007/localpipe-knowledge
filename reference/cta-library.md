@@ -6,15 +6,15 @@ source: "The Local Legend System (Notion export, 2026-11-13)"
 
 # CTA Library
 
-The Notion guide closed most chapters with a promotional block: a LocalPipe offer, a Legacy GTM done-for-you offer, or both. Those blocks were moved here so the playbook chapters carry strategy only and product claims live in one place. Nothing was rewritten. Each block appears once, followed by the chapters it closed.
+The Notion guide closed most chapters with a promotional block: a LocalPipe offer, a Legacy GTM done-for-you offer, or both. Those blocks were moved here so the playbook chapters carry strategy only and product claims live in one place. Apart from the retired discount lines, nothing was rewritten. Each block appears once, followed by the chapters it closed.
 
 Use these when writing content that needs a chapter-specific tie-in to LocalPipe, or when a page needs a CTA in the guide's own voice.
 
-> ⚠️ **Check claims before reuse.** Find rates, plan details and offers in these blocks are as written in the guide. Current product facts live in [`localpipe/`](../localpipe/README.md) and win wherever the two disagree. The **LOCALLEGEND** code (30% off lifetime monthly) is a guide-reader offer and is not listed on the public site.
+> ⚠️ **Check claims before reuse.** Find rates, plan details and offers in these blocks are as written in the guide. Current product facts live in [`localpipe/`](../localpipe/README.md) and win wherever the two disagree. The guide's reader discount (code `LOCALLEGEND`) is retired, so its two lines were removed from every LocalPipe block below.
 
 ## LocalPipe CTAs
 
-Offer blocks pointing readers to LocalPipe (https://localpipe.io), most with the guide-reader code LOCALLEGEND.
+Blocks pointing readers to LocalPipe (https://localpipe.io).
 
 23 distinct blocks.
 
@@ -32,11 +32,7 @@ Closed: [0.4 The Numbers, and Where They Come From](../playbook/00-start-here/0.
 > - ✉️ **60%** combined email coverage
 > - ✅ **Triple verified**, with **sub 1% bounce** on raw exports
 >
-> **30% off lifetime monthly for readers of this guide.**
->
 > **[👉 Get Verified Local Business Owner Contacts](https://localpipe.io)**
->
-> Code **LOCALLEGEND**
 
 ### L2. The One Thing Both Motions Share
 
@@ -53,11 +49,7 @@ Closed: [2.3 Where the Rules Diverge](../playbook/02-the-two-motions/2.3-where-t
 > - ✉️ **60%** combined email coverage, against roughly 10% from a standard B2B database
 > - ✅ **Triple verified**, with **sub 1% bounce** on raw exports
 >
-> **30% off lifetime monthly for readers of this guide.**
->
 > **[👉 Get Verified Local Business Owner Contacts](https://localpipe.io)**
->
-> Code **LOCALLEGEND**
 
 ### L3. The Two Rows That Just Halved Your Market
 
@@ -74,11 +66,7 @@ Closed: [3.3 Market Size Is the Ceiling, Not the Target](../playbook/03-scale/3.
 > - ✅ **Triple verified, sub 1% bounce** on raw exports, so the verification haircut takes far less than half
 > - 🗺️ Sourced from Maps rather than LinkedIn, which is why the businesses are there at all
 >
-> **30% off lifetime monthly for readers of this guide.**
->
 > **[👉 Get Verified Local Business Owner Contacts](https://localpipe.io)**
->
-> Code **LOCALLEGEND**
 
 ### L4. Bounce Is a Data Problem Before It Is Anything Else
 
@@ -95,11 +83,7 @@ Closed: [4.5 The 2% Bar, and Infrastructure by Contact Bucket](../playbook/04-de
 > - ✉️ **60%** combined email coverage, against roughly 10% from a standard B2B database
 > - 🗺️ Resolved by cross-referencing real sources, not by scraping every string that looks like an email off a website
 >
-> **30% off lifetime monthly for readers of this guide.**
->
 > **[👉 Get Verified Local Business Owner Contacts](https://localpipe.io)**
->
-> Code **LOCALLEGEND**
 
 ### L5. Building This In-House?
 
@@ -115,11 +99,7 @@ Closed: [4.7 What to Monitor, and Reading Bounces](../playbook/04-deliverability
 > - 👤 **75%** owner name find rate
 > - ✉️ **60%** combined email coverage, against roughly 10% from a standard B2B database
 >
-> **30% off lifetime monthly for readers of this guide.**
->
 > **[👉 Get Verified Local Business Owner Contacts](https://localpipe.io)**
->
-> Code **LOCALLEGEND**
 
 ### L6. You Can Only Score on Fields You Actually Have
 
@@ -136,11 +116,7 @@ Closed: [5.3 Score and Tier Your Market](../playbook/05-icp-and-signals/5.3-scor
 > - ✅ **Triple verified**, with **sub 1% bounce** on raw exports
 > - 🗺️ Full Maps fields on every record, so the free scoring inputs are actually there
 >
-> **30% off lifetime monthly for readers of this guide.**
->
 > **[👉 Get Verified Local Business Owner Contacts](https://localpipe.io)**
->
-> Code **LOCALLEGEND**
 
 ### L7. The Oceans Are Made of Data
 
@@ -157,11 +133,7 @@ Closed: [5.5 Ocean State and Pain Research](../playbook/05-icp-and-signals/5.5-o
 > - ✉️ **60%** combined email coverage, against roughly 10% from a standard B2B database
 > - ✅ **Triple verified**, with **sub 1% bounce** on raw exports
 >
-> **30% off lifetime monthly for readers of this guide.**
->
 > **[👉 Get Verified Local Business Owner Contacts](https://localpipe.io)**
->
-> Code **LOCALLEGEND**
 
 ### L8. The Whole Section Runs on This
 
@@ -178,11 +150,7 @@ Closed: [6.1 Why the Databases You Know Fail on Local](../playbook/06-building-t
 > - ✉️ **60%** combined email coverage, against roughly 10% from a standard B2B database
 > - ✅ **Triple verified**, with **sub 1% bounce** on raw exports
 >
-> **30% off lifetime monthly for readers of this guide.**
->
 > **[👉 Get Verified Local Business Owner Contacts](https://localpipe.io)**
->
-> Code **LOCALLEGEND**
 
 ### L9. Or Have the Depth Built In
 
@@ -200,11 +168,7 @@ Closed: [6.3 Category Matching and Query Depth](../playbook/06-building-the-list
 > - ✉️ **60%** combined email coverage, against roughly 10% from a standard B2B database
 > - ✅ **Triple verified**, with **sub 1% bounce** on raw exports
 >
-> **30% off lifetime monthly for readers of this guide.**
->
 > **[👉 Get Verified Local Business Owner Contacts](https://localpipe.io)**
->
-> Code **LOCALLEGEND**
 
 ### L10. The Segments Have to Exist Before You Can Keep Them
 
@@ -221,11 +185,7 @@ Closed: [6.5 Generic and Free-Provider Inboxes in Practice](../playbook/06-build
 > - ✉️ **60%** combined email coverage, against roughly 10% from a standard B2B database
 > - ✅ **Triple verified**, with **sub 1% bounce** on raw exports
 >
-> **30% off lifetime monthly for readers of this guide.**
->
 > **[👉 Get Verified Local Business Owner Contacts](https://localpipe.io)**
->
-> Code **LOCALLEGEND**
 
 ### L11. Or Skip the Whole Resolution Layer
 
@@ -243,11 +203,7 @@ Closed: [6.6 Owner Identification and Enrichment](../playbook/06-building-the-li
 > - ✅ **Triple verified**, with **sub 1% bounce** on raw exports
 > - 💸 Pay on find, so records that come back empty cost you nothing
 >
-> **30% off lifetime monthly for readers of this guide.**
->
 > **[👉 Get Verified Local Business Owner Contacts](https://localpipe.io)**
->
-> Code **LOCALLEGEND**
 
 ### L12. To Build the Best List, Start Here
 
@@ -263,11 +219,7 @@ Closed: [6.8 Building It](../playbook/06-building-the-list/6.8-building-it.md) (
 > - ✅ **Triple verified**, with **sub 1% bounce** on raw exports
 > - 💸 Pay on find, so empty records cost you nothing
 >
-> **30% off lifetime monthly for readers of this guide.**
->
 > **[👉 Get Verified Local Business Owner Contacts](https://localpipe.io)**
->
-> Code **LOCALLEGEND**
 
 ### L13. Every Replacement Playbook Needs Data the Standard Tools Do Not Carry
 
@@ -284,11 +236,7 @@ Closed: [8.2 The Local Playbooks](../playbook/08-campaign-architecture/8.2-the-l
 > - ✉️ **60%** combined email coverage, against roughly 10% from a standard B2B database
 > - ✅ **Triple verified**, with **sub 1% bounce** on raw exports
 >
-> **30% off lifetime monthly for readers of this guide.**
->
 > **[👉 Get Verified Local Business Owner Contacts](https://localpipe.io)**
->
-> Code **LOCALLEGEND**
 
 ### L14. The Two Inputs Both Come From the Data Layer
 
@@ -304,11 +252,7 @@ Closed: [9.4 Personalization That Works on Local](../playbook/09-copy/9.4-person
 > - ✉️ **60%** combined email coverage, against roughly 10% from a standard B2B database
 > - ✅ **Triple verified**, with **sub 1% bounce** on raw exports
 >
-> **30% off lifetime monthly for readers of this guide.**
->
 > **[👉 Get Verified Local Business Owner Contacts](https://localpipe.io)**
->
-> Code **LOCALLEGEND**
 
 ### L15. Half of This Checklist Is About the Data
 
@@ -324,11 +268,7 @@ Closed: [10.2 Pre-Launch and Copy QA](../playbook/10-launch-operate-diagnose/10.
 > - 👤 **75%** owner name find rate, which is what the manual name sample is checking
 > - 🪣 Owner email, business email and owner phone returned separately, so the buckets exist from the start
 >
-> **30% off lifetime monthly for readers of this guide.**
->
 > **[👉 Get Verified Local Business Owner Contacts](https://localpipe.io)**
->
-> Code **LOCALLEGEND**
 
 ### L16. You Cannot Call a Number You Do Not Have
 
@@ -345,11 +285,7 @@ Closed: [11.1 The Reply Is a Cue to Dial](../playbook/11-replies-to-booked-meeti
 > - ✉️ **60%** combined email coverage, against roughly 10% from a standard B2B database
 > - ✅ **Triple verified**, with **sub 1% bounce** on raw exports
 >
-> **30% off lifetime monthly for readers of this guide.**
->
 > **[👉 Get Verified Local Business Owner Contacts](https://localpipe.io)**
->
-> Code **LOCALLEGEND**
 
 ### L17. The Phone Number Is Only Useful if the Record Has One
 
@@ -366,11 +302,7 @@ Closed: [12.2 The Phone, LinkedIn and DMs](../playbook/12-beyond-the-inbox/12.2-
 > - ✉️ **60%** combined email coverage, against roughly 10% from a standard B2B database
 > - ✅ **Triple verified**, with **sub 1% bounce** on raw exports
 >
-> **30% off lifetime monthly for readers of this guide.**
->
 > **[👉 Get Verified Local Business Owner Contacts](https://localpipe.io)**
->
-> Code **LOCALLEGEND**
 
 ### L18. The One Purchase That Decides the Rest
 
@@ -388,11 +320,7 @@ Closed: [13.1 What to Buy, in What Order](../playbook/13-tech-stack-and-costs/13
 > - ✅ **Triple verified**, with **sub 1% bounce** on raw exports
 > - 💸 Pay on find, so empty records cost you nothing
 >
-> **30% off lifetime monthly for readers of this guide.**
->
 > **[👉 Get Verified Local Business Owner Contacts](https://localpipe.io)**
->
-> Code **LOCALLEGEND**
 
 ### L19. The Option This Guide Is Built Around
 
@@ -406,11 +334,7 @@ Closed: [13.2 The Data Layer Compared](../playbook/13-tech-stack-and-costs/13.2-
 > - ✅ **Triple verified**, with **sub 1% bounce** on raw exports
 > - 💸 Pay on find, so empty records cost you nothing
 >
-> **30% off lifetime monthly for readers of this guide.**
->
 > **[👉 Get Verified Local Business Owner Contacts](https://localpipe.io)**
->
-> Code **LOCALLEGEND**
 
 ### L20. The Data Layer Behind This
 
@@ -424,11 +348,7 @@ Closed: [14 · Case Studies](../playbook/14-case-studies-agency.md) (agency edit
 > - ✉️ **60%** combined email coverage, against roughly 10% from a standard B2B database
 > - ✅ **Triple verified**, with **sub 1% bounce** on raw exports
 >
-> **30% off lifetime monthly for readers of this guide.**
->
 > **[👉 Get Verified Local Business Owner Contacts](https://localpipe.io)**
->
-> Code **LOCALLEGEND**
 
 ### L21. The Data Layer This Guide Runs On
 
@@ -444,11 +364,7 @@ Closed: [The Agency Guide — Cold Outbound to Local Business ICPs](../playbook/
 > - ✅ **Triple verified**, with **sub 1% bounce** on raw exports
 > - 💸 Pay on find, so empty records cost you nothing
 >
-> **30% off lifetime monthly for readers of this guide.**
->
 > **[👉 Get Verified Local Business Owner Contacts](https://localpipe.io)**
->
-> Code **LOCALLEGEND**
 
 ### L22. Building This In-House?
 
@@ -464,11 +380,7 @@ Closed: [The Business Owner Guide — Cold Outbound to Local Business ICPs](../p
 > - ✉️ **60%** combined email coverage
 > - ✅ Sub 1% bounce on verified exports
 >
-> **30% off lifetime monthly for readers of this guide.**
->
 > **[👉 Get Local Business Owner Contacts](https://localpipe.io)**
->
-> Code **LOCALLEGEND**
 
 ### L23. If You Are Carrying On In-House
 
@@ -482,11 +394,7 @@ Closed: [B2.4 When to Stop Doing This Yourself](../playbook/business-owner/b2-ru
 > - ✉️ **60%** combined email coverage, against roughly 10% from a standard B2B database
 > - ✅ **Triple verified**, with **sub 1% bounce** on raw exports
 >
-> **30% off lifetime monthly for readers of this guide.**
->
 > **[👉 Get Verified Local Business Owner Contacts](https://localpipe.io)**
->
-> Code **LOCALLEGEND**
 
 ## Legacy GTM CTAs
 

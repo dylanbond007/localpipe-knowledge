@@ -38,11 +38,9 @@ The session covered a lot quickly. This guide covers it slowly.
 > - ✅ **Triple verified**, with **sub 1% bounce** on raw exports
 > - 💸 Pay on find, so empty records cost you nothing
 >
-> **30% off lifetime monthly** with the code below.
->
 > **[👉 Get Verified Local Business Owner Contacts](https://localpipe.io)**
->
-> Code **LOCALLEGEND**
+
+<!-- updated 2026-11-13: retired or unconfirmed claim removed; original wording recorded in meta/changes-from-notion-source.md -->
 
 > ### 📬 Infrastructure and Sending
 >

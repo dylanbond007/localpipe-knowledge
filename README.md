@@ -53,7 +53,7 @@ The Notion guide came in two editions, an Agency Guide and a Business Owner Guid
 - Chapters that exist in one edition only live under `playbook/agency/` or `playbook/business-owner/`, except 1.1 and 1.2, which sit in `01-foundations/` and are marked business-owner only.
 - Every file's front matter says which editions it covers.
 
-Chapter text is unchanged from the source apart from the corrections logged in [meta/changes-from-notion-source.md](meta/changes-from-notion-source.md). The promotional blocks that closed most chapters were moved to [reference/cta-library.md](reference/cta-library.md) so the chapters carry strategy only.
+Chapter text is unchanged from the source apart from the corrections and cuts logged in [meta/changes-from-notion-source.md](meta/changes-from-notion-source.md). The promotional blocks that closed most chapters were moved to [reference/cta-library.md](reference/cta-library.md) so the chapters carry strategy only.
 
 ## Which source wins
 
@@ -80,6 +80,6 @@ For a project that should always have this context, add a line to that project's
 
 - Playbook source: Notion export of The Local Legend System, received 13 November 2026 (kept in `archive/`).
 - LocalPipe facts: localpipe.io pages and published files, fetched 13 November 2026.
-- Conversion checked block by block: every passage in the export is present in this repo.
+- Conversion checked block by block: every passage in the export was carried over. The few passages corrected or cut since are logged in `meta/changes-from-notion-source.md`.
 
 Internal knowledge base. Not for public distribution.

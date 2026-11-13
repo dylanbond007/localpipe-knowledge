@@ -6,7 +6,7 @@ date: "2026-11-13"
 
 # Changes from the Notion source
 
-The playbook was converted from a Notion export received on 13 November 2026 and cross-checked against https://www.localpipe.io the same day. This page records what changed and what is still open.
+The playbook was converted from a Notion export received on 13 November 2026 and cross-checked against https://www.localpipe.io the same day. This page records what changed and what is still open. Two further claims were cut the same day on Dylan's instruction (section 2).
 
 ## 1. Corrections made to chapter text
 
@@ -18,37 +18,56 @@ One fact in the guide was out of date: **the free tier.** The guide said LocalPi
 | [13.2 The Data Layer Compared](../playbook/13-tech-stack-and-costs/13.2-the-data-layer-compared.md) | "The first two are published by LocalPipe or derived from their material, which is exactly why the disclosure above is there. Run the free tier against your own market before you believe any of it." | "The first three are published by LocalPipe or derived from their material, which is exactly why the disclosure above is there. Run a sample of your own market through it before you believe any of it." |
 | [15.2 Benchmarks With Confidence](../playbook/15-reference/15.2-benchmarks-with-confidence.md) | "Both are published by or derived from LocalPipe, who co-authored the list building section of this guide. Their free tier is 400 credits with no card, so run it against your own market rather than taking any of it on trust." | "All three are published by or derived from LocalPipe, who co-authored the list building section of this guide. There is no free plan (plans start at $57 a month, charged only on finds), so run a small sample of your own market rather than taking any of it on trust." |
 
-## 2. Additions to chapter text
+## 2. Claims cut on Dylan's instruction
+
+Cut on 13 November 2026. The reader discount is no longer live, and the verification vendors are not named publicly.
+
+**The `LOCALLEGEND` reader discount.** Removed everywhere it appeared.
+
+| Where | Original wording removed |
+| --- | --- |
+| All 23 LocalPipe blocks in the [CTA library](../reference/cta-library.md) | "**30% off lifetime monthly for readers of this guide.**" and "Code **LOCALLEGEND**" |
+| [16 Webinar Hub](../playbook/16-webinar-hub-business-owner.md), both versions, LocalPipe block | "**30% off lifetime monthly** with the code below." and "Code **LOCALLEGEND**" |
+| 16 Webinar Hub, business-owner version, under "The Offers" | "Both were promised in the session and both are live." (no longer true of the LocalPipe offer) |
+| [13.2 The Data Layer Compared](../playbook/13-tech-stack-and-costs/13.2-the-data-layer-compared.md), disclosure | "...and there is a discount code for it throughout." The disclosure now reads: "LocalPipe co-authored the list building section of this guide. Weigh the comparison accordingly..." |
+
+**The named verification vendors.**
+
+| Where | Original wording | Now reads |
+| --- | --- | --- |
+| 13.2, LocalPipe section | "**Triple verification through MillionVerifier, ZeroBounce and NeverBounce**, producing sub 1% bounce in live campaigns." | "**Every email is triple verified by three independent verification services**, producing sub 1% bounce in live campaigns." |
+
+`localpipe/pricing.md`, `localpipe/messaging.md` and `CLAUDE.md` now state that there is no active discount code and that the verification vendors are not to be named.
+
+## 3. Additions to chapter text
 
 Four small additions, each marked in the file.
 
 | File | Added |
 | --- | --- |
-| 13.2, "Where These Figures Come From" | A third source bullet linking LocalPipe's October 2026 data benchmark (https://www.localpipe.io/data-comparison). This is why "first two" became "first three" above |
-| 15.2, "Where to Check" | The same benchmark link as a third bullet. This is why "Both" became "All three" above |
+| 13.2, "Where These Figures Come From" | A third source bullet linking LocalPipe's October 2026 data benchmark (https://www.localpipe.io/data-comparison). This is why "first two" became "first three" in section 1 |
+| 15.2, "Where to Check" | The same benchmark link as a third bullet. This is why "Both" became "All three" in section 1 |
 | 13.2, before "How to Decide" | A repo note pointing to `localpipe/` for current plans, credit costs and the benchmark |
 | [6.8 Building It](../playbook/06-building-the-list/6.8-building-it.md) | A repo note pointing to the copy of the API docs and category CSV in `localpipe/api/` |
 
 Repo notes are labelled "Repo note, not part of the original guide".
 
-## 3. Claims the public site does not confirm
+## 4. Claims the public site does not confirm
 
-These are in the guide, are not contradicted by the site, and could not be verified there. They were left as written. **Each one needs a yes or no from Dylan.**
+These are in the guide, are not contradicted by the site, and could not be verified there. They were left as written.
 
 | # | Claim | Where | Why it is open |
 | --- | --- | --- | --- |
-| 1 | Triple verification runs through **MillionVerifier, ZeroBounce and NeverBounce** | 13.2 | The site says only "three independent verification services". It names MillionVerifier once, as the tool that classifies catch-all addresses in the benchmark |
-| 2 | **30% off lifetime monthly with code `LOCALLEGEND`** | [CTA library](../reference/cta-library.md), [16 Webinar Hub](../playbook/16-webinar-hub-business-owner.md) | Not listed anywhere on the public site. Is it still active, and does it apply to the current $57, $97 and $157 plans? |
-| 3 | Source link to a **third-party listing** (saasworthy.com/product/localpipeio) for the verification stack and sourcing model | 13.2, 15.2 | Kept because the guide cites it. A third-party listing may still show the old free tier. Consider replacing it with a first-party page |
-| 4 | **Owner direct email find rate about 42%** | 15.2, both edition front pages | The site publishes only the 60% combined figure. The 42% is the guide's controlled-comparison number |
-| 5 | **Under 5% of local SMBs are in the major B2B databases**, and market figures drawn from LocalPipe's analysis of **roughly 7.2 million emails** | 0.4, 6.1, 15.2 | Guide-sourced. The site does not publish the 7.2 million analysis. The October 2026 benchmark is in the same direction (Apollo 5.2% verified sendable coverage on one list) but measures something different |
-| 6 | Partner codes: **InboxKit `GTMLAUNCHPAD`** (about $3 per inbox per month) and **Sendkit `10GTMLAUNCHPAD`** (10% off) | 13.1, 16 | Third-party offers. Not checked |
-| 7 | **The Local Legend Money Model** calculator (Google Sheets link) | 3.4, 16 | Link kept as written. Not opened or checked |
-| 8 | "Both routes are covered in **the training that comes with this guide**" | 6.8 | No training material was in the export |
+| 1 | Source link to a **third-party listing** (saasworthy.com/product/localpipeio) for the verification stack and sourcing model | 13.2, 15.2 | Kept because the guide cites it. A third-party listing may still show the old free tier. Consider replacing it with a first-party page |
+| 2 | **Owner direct email find rate about 42%** | 15.2, both edition front pages | The site publishes only the 60% combined figure. The 42% is the guide's controlled-comparison number |
+| 3 | **Under 5% of local SMBs are in the major B2B databases**, and market figures drawn from LocalPipe's analysis of **roughly 7.2 million emails** | 0.4, 6.1, 15.2 | Guide-sourced. The site does not publish the 7.2 million analysis. The October 2026 benchmark is in the same direction (Apollo 5.2% verified sendable coverage on one list) but measures something different |
+| 4 | Partner codes: **InboxKit `GTMLAUNCHPAD`** (about $3 per inbox per month) and **Sendkit `10GTMLAUNCHPAD`** (10% off) | 13.1, 16 | Third-party offers. Not checked |
+| 5 | **The Local Legend Money Model** calculator (Google Sheets link) | 3.4, 16 | Link kept as written. Not opened or checked |
+| 6 | "Both routes are covered in **the training that comes with this guide**" | 6.8 | No training material was in the export |
 
 Two cosmetic items were also left alone: a typo in 15.2 ("businsses") and the setup time for LocalPipe, which the guide gives as "Minutes" and the site's table as "Seconds".
 
-## 4. Checked against the site and consistent
+## 5. Checked against the site and consistent
 
 No change needed.
 
@@ -64,7 +83,7 @@ No change needed.
 - Openmart and Outscraper named as the honest alternatives, Apollo for corporate lists
 - 34,700,000 emails sent on LocalPipe data
 
-## 5. On the site but not in the guide
+## 6. On the site but not in the guide
 
 All of this now lives in [`localpipe/`](../localpipe/README.md).
 
@@ -81,7 +100,7 @@ All of this now lives in [`localpipe/`](../localpipe/README.md).
 - 100% of Google Maps, roughly 250 million businesses by third-party estimate
 - Published competitor pricing for Openmart, Outscraper, Clay, Apollo, ZoomInfo and Lusha
 
-## 6. Structural changes in the conversion
+## 7. Structural changes in the conversion
 
 Nothing below changes what the guide says.
 
@@ -95,4 +114,4 @@ Nothing below changes what the guide says.
 - **File names.** Notion page IDs, spaces and special characters were removed. Chapter numbers are kept.
 - **Front matter.** Each file gained a short header: title, chapter, section, editions, a key idea taken from the chapter's opening callout, and the source.
 
-**Verification.** After conversion, all 6,703 text blocks in the export were checked against the repo. None are missing. The three corrected passages are accounted for by their original wording, recorded in section 1.
+**Verification.** After conversion, all 6,703 text blocks in the export were checked against the repo and all were present. The passages corrected or cut afterwards are the ones listed in sections 1 and 2.

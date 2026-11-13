@@ -83,7 +83,8 @@ LocalPipe's public voice concedes ground on purpose. Keep doing it.
 - Do not call the October 2026 benchmark independent.
 - Do not state the 250 million figure as LocalPipe's own count.
 - Do not imply LocalPipe sends email or replaces a sequencer.
-- Do not name the three verification vendors as fact. The public site says only "three independent verification services". See the open items in [`../meta/changes-from-notion-source.md`](../meta/changes-from-notion-source.md).
+- Do not name the verification vendors. The public wording is "three independent verification services".
+- Do not offer a discount code. The guide's `LOCALLEGEND` reader offer is retired.
 
 ## Calls to action the site uses
 
@@ -91,7 +92,7 @@ LocalPipe's public voice concedes ground on purpose. Keep doing it.
 - **Book a Demo**
 - "Run your own list": bring 50 target businesses, or upload a few hundred records from your own market, and compare what comes back
 
-Guide-era CTAs in the guide's voice, including the `LOCALLEGEND` reader code, are collected in the [CTA library](../reference/cta-library.md).
+Guide-era CTAs in the guide's voice are collected in the [CTA library](../reference/cta-library.md). The guide's reader discount is retired and has been removed from them.
 
 ## Who to recommend LocalPipe to
 

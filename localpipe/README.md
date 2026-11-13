@@ -20,7 +20,7 @@ LocalPipe (https://www.localpipe.io) is a local business owner data platform for
 | File | Read it for |
 | --- | --- |
 | [product.md](product.md) | What LocalPipe is, who it is for, how it works, features, what it does not do, coverage, company details |
-| [pricing.md](pricing.md) | Plans, credit costs, annual billing, the Usage-Based plan, cost per contact, plan sizing, refunds, the guide-reader code |
+| [pricing.md](pricing.md) | Plans, credit costs, annual billing, the Usage-Based plan, cost per contact, plan sizing, refunds |
 | [data-quality-and-benchmark.md](data-quality-and-benchmark.md) | Find rates, verification, what to expect per 1,000 businesses, and the October 2026 five-provider benchmark in full |
 | [competitors.md](competitors.md) | LocalPipe against Apollo, Outscraper, Clay, Openmart, ZoomInfo, Lusha, LeadSwift, Seamless and Hunter, including where each one is the better choice |
 | [messaging.md](messaging.md) | Positioning, core lines, proof points, honest limits, and the claims that must carry a qualifier |
