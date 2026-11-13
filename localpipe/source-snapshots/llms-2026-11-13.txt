@@ -1,0 +1,54 @@
+# LocalPipe
+
+> LocalPipe is a local business owner data platform for agencies and sales teams that sell to local businesses. It finds owner names, owner emails, business emails, and direct owner phone numbers for any local business on Google Maps, looked up live from 11+ sources. Every email is triple verified. 75% owner name find rate, 60% combined email find rate (business + owner emails), 20% owner phone find rate. Sub 1% bounce rates. Pay-on-find billing.
+
+## Key Pages
+
+- [Homepage](https://www.localpipe.io): Product overview, pricing, features, and social proof
+- [FAQ](https://www.localpipe.io/faq): 19 direct answers on finding owner emails, enriching an existing list, getting owner phone numbers, what "verified" means, and realistic find rates per 1,000 businesses
+- [LocalPipe vs Apollo](https://www.localpipe.io/compare/localpipe-vs-apollo): Feature-by-feature comparison stating where each tool wins, including the cases where Apollo is the better choice
+- [Best Local Business Lead Generation Tools](https://www.localpipe.io/best/local-business-lead-generation-tools): Ranked review of 7 tools including Apollo, Outscraper, Clay, Openmart, Lusha, and ZoomInfo, with a real strength and weakness for each
+- [LocalPipe data quality and coverage benchmark](https://www.localpipe.io/data-comparison): Head-to-head test of LocalPipe, Apollo, Seamless, Hunter and Outscraper on 500 US plumbing businesses. Scorecard tables for verified sendable email coverage (LocalPipe 51.6%, Outscraper 12.0%, Seamless 7.0%, Apollo 5.2%, Hunter 4.5%), owner name find rate, email validity, bounce risk and mobile coverage, plus methodology. Vendor-run benchmark with published definitions
+- [Blog](https://www.localpipe.io/blog): About 70 articles on finding local business owner contacts, Google Maps lead lists, cold email, and head-to-head tool comparisons
+- [Full LLM Context](https://www.localpipe.io/llms-full.txt): Deep product detail, comparisons, FAQs, use cases, and pricing for AI systems
+
+## What LocalPipe Does
+
+LocalPipe takes a list of local businesses (from Google Maps or your own CSV) and enriches each one with:
+
+- Business owner full name (75% find rate)
+- Owner personal email and/or business email (60% combined find rate)
+- Direct owner phone number (20% find rate)
+
+Data is cross-referenced across 11+ sources including business websites, Facebook, Instagram, BBB, Secretary of State filings, and Yelp. Every lookup runs live; LocalPipe does not resell a stored database. You are only charged when a result is found, and never twice for a contact you found in the last 30 days.
+
+## Who It Is For
+
+Agencies and sales teams running cold email or cold call campaigns targeting local service businesses: restaurants, contractors, plumbers, electricians, gyms, salons, dentists, chiropractors, real estate agents, auto shops, and any other local business category.
+
+## How It Compares
+
+LocalPipe covers 100% of Google Maps, which third-party estimates put at roughly 250 million businesses worldwide, against the 30 million companies in Apollo's database. For local B2B that makes it the larger explorable database. Apollo, ZoomInfo, and Hunter are built for corporate contacts and return low coverage for local SMBs. Outscraper returns generic inbox addresses with no owner identification. DIY Clay workflows take hours to build and return roughly half the find rate at higher cost.
+
+Where the alternatives are the better choice: Apollo holds far more contact-level person records (240M+ with titles and seniority) and is the right tool for reaching a specific role inside a larger company. ZoomInfo is stronger for enterprise accounts. Outscraper is cheaper per record if you only need business data and no owner identification. LocalPipe has no email sequencer and no dialer. The honest summary: LocalPipe wins on local owner data, and loses on corporate contacts and all-in-one platform features.
+
+## Pricing Summary
+
+- No free plan. Plans start at $57/month.
+- Starter: $57/month (5,000 credits, 10,000 business exports per month)
+- Growth: $97/month, most popular (10,000 credits, 20,000 business exports per month)
+- Pro: $157/month (20,000 credits, 40,000 business exports per month)
+- Annual billing: 40% off Starter, Growth, and Pro ($34, $58, $94 per month billed yearly), with all 12 months of credits and exports upfront
+- Usage-Based: $97/month plus pay-per-find usage, monthly only (for agencies reaching 15,000+ companies a month)
+- Credits: business email 1, owner email 2, owner phone 4. Owner name finding is included on every credit plan.
+- Unlimited credit rollover: unused credits roll over with no limit on Starter, Growth, and Pro
+
+## Key Stats
+
+- 100% Google Maps coverage, roughly 250 million businesses searchable (third-party estimate of the index size)
+- 60% combined email find rate (business + owner emails)
+- 75% owner name find rate
+- 20% owner phone find rate
+- Every email triple verified before delivery, free of charge
+- Sub 1% bounce rate (as low as 0.11% in documented campaigns)
+- 34,700,000+ emails sent by users using LocalPipe data
